@@ -10,7 +10,7 @@ my website in React, I just wanna show off that I can do React because sometimes
 
 ## Features
 
-- [] Interactive Terminal
+- [x] Interactive Terminal
 - [] Interactive Resume
 - [] Chatbox
 - [] Mini Games

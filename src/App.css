@@ -1,0 +1,13 @@
+.asmyTerminal {
+  text-align: center;
+  margin: 5% 5%;
+  height: 40em;
+}
+
+.asmyTerminal strong {
+  color: #8294C4
+}
+
+.asmyTerminal th {
+  color: #B1B2FF
+}
