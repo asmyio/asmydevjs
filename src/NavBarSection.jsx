@@ -11,7 +11,7 @@ function NavBarSection() {
     <nav className="navbar is-dark" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <a className="navbar-item" href="https://asmy.dev">
-          <img src="/src/assets/wrench.svg" width="112" height="28" alt="asmyDev Logo" />
+          <img src="https://openmoji.org/data/color/svg/1F6E0.svg" width="112" height="28" alt="asmyDev Logo" />
         </a>
 
         <a

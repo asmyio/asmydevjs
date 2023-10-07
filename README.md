@@ -1,7 +1,7 @@
 # asmy.dev
 
 
-[![Firebase Deploy](https://github.com/asmyio/asmydev/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/asmyio/asmydev/actions/workflows/firebase-hosting-merge.yml)
+[![Firebase Deploy](https://github.com/asmyio/asmydevjs/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/asmyio/asmydevjs/actions/workflows/firebase-hosting-merge.yml)
 
 my website in React, I just wanna show off that I can do React because sometimes interviewers would ask for a JavaScript project to see that I could code in JavaScript, hence, where else would be the best place to show off unless it is my website :smile:
 
