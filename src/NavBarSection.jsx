@@ -11,7 +11,7 @@ function NavBarSection() {
     <nav className="navbar is-dark" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <a className="navbar-item" href="https://asmy.dev">
-          <img src="./src/assets/wrench.svg" width="112" height="28" alt="asmyDev Logo" />
+          <img src="/src/assets/wrench.svg" width="112" height="28" alt="asmyDev Logo" />
         </a>
 
         <a
@@ -28,7 +28,6 @@ function NavBarSection() {
         </a>
       </div>
 
-      {/* Apply 'is-active' class to 'navbar-menu' if isMobileMenuOpen is true */}
       <div id="navbarBasicExample" className={`navbar-menu ${isMobileMenuOpen ? 'is-active' : ''}`}>
 
         <div className="navbar-end">
